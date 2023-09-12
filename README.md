@@ -8,3 +8,4 @@ it can search for any movie you want and can fetch it's imdb rating and random t
 this movie website uses the tmbd api to fetch the required data.
 it uses bootstrap cdn for the ui of the website and is completely responsive on any device.
 if you like this project share it with your friends.
+it generates random trailer every time you click on play button or hover over it.
